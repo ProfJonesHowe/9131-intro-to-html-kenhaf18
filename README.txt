@@ -1,14 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NNvP0UUF)
-Create a basic HTML page
-Ensure you make your page public so they are viewable
-The index.html page will contain
-  the !DOCTYPE declaration
-  the <head> tag
-  the <title> tag
-  the <html> tag
-  the <body> tag
-  two different headings
-  One paragraph - The paragraph will be about something you are interested in.  This will define what your individual project will be about (this can be changed, but it's a starting idea) 
-  A link to any website about your topic
-  A picture about your topic with alt text
-  the proper closing tags.
+<!DOCTYPE>
+
+<html>
+
+<title>CFitness is hard but worth it!</title>
+
+<body> 
+	<h1>Why I like fitness<h1>
+		<h2>Hyprid training has hooked me<h2>
+			<p>Hybrid training brings a fun aspect and balance into fitness. "Look good feel good" is often said in this type of training. Pushing weights to build muscle and running to feel good. It's alot to do at once and an easy way to burn out. Hybrid training is not for everyone but for a particualr group of people who want to perform their best everywhere.<p>
+				<a href="https://www.bareperformancenutrition.com/?srsltid=AfmBOooFtkugNv9nvhnodvULTyDlDVp4_wrSLOmxj29V_Aet0WjtLcL5">BPN "Bare Performance Nutrition"</a>
+				<img src="https://www.gymshark.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F8urtyqugdt2l%2FeLj6osrSo6BLz2zmAMS4N%2Fc45ce3f2608f39eb0951fec9065d8bb4%2F3360x3360_ENG.jpg&w=3840&q=85">
+</body>
+
+<html>
